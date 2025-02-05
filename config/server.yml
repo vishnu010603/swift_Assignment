@@ -1,0 +1,5 @@
+server:
+  httpPort: 8080
+  enableHttp: true
+  enableHttps: false
+  serviceId: com.example.api
