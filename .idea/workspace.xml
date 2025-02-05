@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d5a90d00-cdbb-4e7c-b25e-11b281a41fdc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/DeleteUsersHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/DeleteUsersHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/utils/MongoClientProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/utils/MongoClientProvider.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/api/utils/MongoClientProvider.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
