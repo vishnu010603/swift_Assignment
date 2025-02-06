@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a90d00-cdbb-4e7c-b25e-11b281a41fdc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/mongo.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/mongo.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/DeleteUsersByIdHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/DeleteUsersByIdHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/DeleteUsersHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/DeleteUsersHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/GetUserByIdHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/GetUserByIdHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/LoadUserHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/LoadUserHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/PostUserHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/PostUserHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/PutUserHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/PutUserHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/models/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/models/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/models/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/models/Company.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/models/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/services/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/utils/MongoClientProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/utils/MongoClientProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
