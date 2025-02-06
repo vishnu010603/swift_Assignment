@@ -8,7 +8,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Scanner;
 
-public class LoadUsersHandler {
+public class LoadUserHandler {
     public void handleRequest(HttpServerExchange exchange) {
         try {
             URL url = new URL("https://jsonplaceholder.typicode.com/users");

@@ -6,7 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="d5a90d00-cdbb-4e7c-b25e-11b281a41fdc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/mongo.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/mongo.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/DeleteUsersByIdHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/DeleteUsersByIdHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/DeleteUsersHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/DeleteUsersHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/GetUserByIdHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/GetUserByIdHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/LoadUserHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/LoadUserHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/PostUserHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/PostUserHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/PutUserHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/handlers/PutUserHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/models/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/models/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/models/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/models/Company.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/models/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/services/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/api/utils/MongoClientProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/api/utils/MongoClientProvider.java" afterDir="false" />
