@@ -21,16 +21,3 @@ A lightweight Java web service implementing REST endpoints for user management, 
 | PUT         | /users            | Create new user                              |
 | POST        | /users/{userId}   | Update existing user                         |
 
-## Prerequisites
-
-- Java 8+
-- Apache Maven 3.6+
-- MongoDB 4.4+
-- Light-4j framework (managed by Maven)
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/java-rest-api.git
-   cd java-rest-api
